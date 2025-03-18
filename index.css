@@ -1,0 +1,19 @@
+body {
+  /* border: 1px solid red; */
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  
+
+}
+
+.BMI-Section {
+  /* border: 1px solid red; */
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+
